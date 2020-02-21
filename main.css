@@ -1,0 +1,44 @@
+body{
+    background-image: url("./img/bkgrnd.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    background-color: orangered;
+}
+
+.heading{
+    text-align: center;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+#die{
+    border-radius: 20%;
+    border: 10px solid black;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+}
+
+#btn{
+    background-color:transparent;
+    color: yellow;
+    border: 10px solid black;
+    border-radius: 50%;
+    font-size: 2vh;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+
